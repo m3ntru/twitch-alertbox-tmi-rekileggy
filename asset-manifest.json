@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/twitch-alertbox-tmi-rekileggy/static/css/main.db2b30e8.chunk.css",
-    "main.js": "/twitch-alertbox-tmi-rekileggy/static/js/main.9ff64b60.chunk.js",
-    "main.js.map": "/twitch-alertbox-tmi-rekileggy/static/js/main.9ff64b60.chunk.js.map",
+    "main.js": "/twitch-alertbox-tmi-rekileggy/static/js/main.d2f698fa.chunk.js",
+    "main.js.map": "/twitch-alertbox-tmi-rekileggy/static/js/main.d2f698fa.chunk.js.map",
     "runtime-main.js": "/twitch-alertbox-tmi-rekileggy/static/js/runtime-main.baa5185e.js",
     "runtime-main.js.map": "/twitch-alertbox-tmi-rekileggy/static/js/runtime-main.baa5185e.js.map",
     "static/js/2.eaa958bb.chunk.js": "/twitch-alertbox-tmi-rekileggy/static/js/2.eaa958bb.chunk.js",
@@ -22,13 +22,17 @@
     "static/media/commercial.9d54da4f.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/commercial.9d54da4f.mp3",
     "static/media/dai3bukan.6cb3ef6c.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/dai3bukan.6cb3ef6c.mp3",
     "static/media/destroy.32516c39.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/destroy.32516c39.mp3",
+    "static/media/diehardman.978afe05.wav": "/twitch-alertbox-tmi-rekileggy/static/media/diehardman.978afe05.wav",
+    "static/media/ding.0122b3bc.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/ding.0122b3bc.mp3",
     "static/media/donate.827c3fab.jpg": "/twitch-alertbox-tmi-rekileggy/static/media/donate.827c3fab.jpg",
     "static/media/draw.9f4223e2.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/draw.9f4223e2.mp3",
+    "static/media/ds3.cbb4a1cb.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/ds3.cbb4a1cb.mp3",
     "static/media/empty.089e4f3c.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/empty.089e4f3c.mp3",
     "static/media/enemychaser.f480c4d5.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/enemychaser.f480c4d5.mp3",
     "static/media/flameshot.812a909d.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/flameshot.812a909d.mp3",
     "static/media/futsukushii.ef359b28.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/futsukushii.ef359b28.mp3",
     "static/media/goodbyejojo.b4bd49fb.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/goodbyejojo.b4bd49fb.mp3",
+    "static/media/ha.ce9b51ed.wav": "/twitch-alertbox-tmi-rekileggy/static/media/ha.ce9b51ed.wav",
     "static/media/hanase.fabb80a0.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/hanase.fabb80a0.mp3",
     "static/media/heavy.b4654a42.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/heavy.b4654a42.mp3",
     "static/media/hell2you.a6a70fba.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/hell2you.a6a70fba.mp3",
@@ -41,6 +45,7 @@
     "static/media/lpcountdown.1230783e.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/lpcountdown.1230783e.mp3",
     "static/media/lpcountzero.67886520.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/lpcountzero.67886520.mp3",
     "static/media/mgs.4cea1f64.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/mgs.4cea1f64.mp3",
+    "static/media/mute.86ca59de.wav": "/twitch-alertbox-tmi-rekileggy/static/media/mute.86ca59de.wav",
     "static/media/nanikore.a5694977.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/nanikore.a5694977.mp3",
     "static/media/nicecard.65c0e6af.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/nicecard.65c0e6af.mp3",
     "static/media/nigerundayo.476ac4cb.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/nigerundayo.476ac4cb.mp3",
@@ -53,6 +58,7 @@
     "static/media/out.775810c9.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/out.775810c9.mp3",
     "static/media/raid.5941e8ac.wav": "/twitch-alertbox-tmi-rekileggy/static/media/raid.5941e8ac.wav",
     "static/media/raid.5ff72eae.gif": "/twitch-alertbox-tmi-rekileggy/static/media/raid.5ff72eae.gif",
+    "static/media/ringu.2478504c.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/ringu.2478504c.mp3",
     "static/media/roadroller.837f9d91.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/roadroller.837f9d91.mp3",
     "static/media/rocketlauncher.f0239bae.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/rocketlauncher.f0239bae.mp3",
     "static/media/shinekakyoin.95cddd32.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/shinekakyoin.95cddd32.mp3",
@@ -84,6 +90,6 @@
     "static/js/runtime-main.baa5185e.js",
     "static/js/2.eaa958bb.chunk.js",
     "static/css/main.db2b30e8.chunk.css",
-    "static/js/main.9ff64b60.chunk.js"
+    "static/js/main.d2f698fa.chunk.js"
   ]
 }
