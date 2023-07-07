@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/twitch-alertbox-tmi-rekileggy/static/css/main.db2b30e8.chunk.css",
-    "main.js": "/twitch-alertbox-tmi-rekileggy/static/js/main.ef51b409.chunk.js",
-    "main.js.map": "/twitch-alertbox-tmi-rekileggy/static/js/main.ef51b409.chunk.js.map",
+    "main.js": "/twitch-alertbox-tmi-rekileggy/static/js/main.3643dd5e.chunk.js",
+    "main.js.map": "/twitch-alertbox-tmi-rekileggy/static/js/main.3643dd5e.chunk.js.map",
     "runtime-main.js": "/twitch-alertbox-tmi-rekileggy/static/js/runtime-main.baa5185e.js",
     "runtime-main.js.map": "/twitch-alertbox-tmi-rekileggy/static/js/runtime-main.baa5185e.js.map",
     "static/js/2.eaa958bb.chunk.js": "/twitch-alertbox-tmi-rekileggy/static/js/2.eaa958bb.chunk.js",
@@ -25,6 +25,7 @@
     "static/media/diehardman.978afe05.wav": "/twitch-alertbox-tmi-rekileggy/static/media/diehardman.978afe05.wav",
     "static/media/ding.0122b3bc.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/ding.0122b3bc.mp3",
     "static/media/donate.827c3fab.jpg": "/twitch-alertbox-tmi-rekileggy/static/media/donate.827c3fab.jpg",
+    "static/media/doraemon.d104ff3f.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/doraemon.d104ff3f.mp3",
     "static/media/draw.9f4223e2.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/draw.9f4223e2.mp3",
     "static/media/ds3.cbb4a1cb.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/ds3.cbb4a1cb.mp3",
     "static/media/empty.089e4f3c.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/empty.089e4f3c.mp3",
@@ -93,6 +94,6 @@
     "static/js/runtime-main.baa5185e.js",
     "static/js/2.eaa958bb.chunk.js",
     "static/css/main.db2b30e8.chunk.css",
-    "static/js/main.ef51b409.chunk.js"
+    "static/js/main.3643dd5e.chunk.js"
   ]
 }
