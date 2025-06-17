@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/twitch-alertbox-tmi-rekileggy/static/css/main.fb9ee70c.css",
-    "main.js": "/twitch-alertbox-tmi-rekileggy/static/js/main.a7e6b3bc.js",
+    "main.css": "/twitch-alertbox-tmi-rekileggy/static/css/main.2870ff38.css",
+    "main.js": "/twitch-alertbox-tmi-rekileggy/static/js/main.10f24fe0.js",
     "static/js/453.ffde2579.chunk.js": "/twitch-alertbox-tmi-rekileggy/static/js/453.ffde2579.chunk.js",
     "static/media/mute.wav": "/twitch-alertbox-tmi-rekileggy/static/media/mute.86ca59defb189a946d84.wav",
     "static/media/subfast.gif": "/twitch-alertbox-tmi-rekileggy/static/media/subfast.08f61153b0400f92bbde.gif",
@@ -82,12 +82,12 @@
     "static/media/cheer.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/cheer.e2de6ddde1fc72854890.mp3",
     "static/media/empty.mp3": "/twitch-alertbox-tmi-rekileggy/static/media/empty.089e4f3c6d4e9d728704.mp3",
     "index.html": "/twitch-alertbox-tmi-rekileggy/index.html",
-    "main.fb9ee70c.css.map": "/twitch-alertbox-tmi-rekileggy/static/css/main.fb9ee70c.css.map",
-    "main.a7e6b3bc.js.map": "/twitch-alertbox-tmi-rekileggy/static/js/main.a7e6b3bc.js.map",
+    "main.2870ff38.css.map": "/twitch-alertbox-tmi-rekileggy/static/css/main.2870ff38.css.map",
+    "main.10f24fe0.js.map": "/twitch-alertbox-tmi-rekileggy/static/js/main.10f24fe0.js.map",
     "453.ffde2579.chunk.js.map": "/twitch-alertbox-tmi-rekileggy/static/js/453.ffde2579.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb9ee70c.css",
-    "static/js/main.a7e6b3bc.js"
+    "static/css/main.2870ff38.css",
+    "static/js/main.10f24fe0.js"
   ]
 }
